@@ -1,0 +1,36 @@
+viewPhaseReports() = viewTempoReportsTeamMemberDays()
+
+viewTimeReports() = viewTempoReportsTeamHours()
+
+viewTeamActualHours() = viewTempoReportsTeamDays()
+
+---
+
+{
+
+name: 'chaitanya pawan ariparala',
+plannedhoursperday: 
+mintimehrs: 
+avgtimehrs:
+avgtimeissue:
+avgnoissue:
+mindays:
+maxdays:
+avgdays:
+
+}
+
+first build an array of unique names = 
+- iterate over the array
+- check "Assignee (Full name)" field
+- put the value into the names array if this name is not there
+- if the name is there add to the planned hours per day field, push to 'planned hours total' array, number of planned days field, increment Issue Key field value
+
+then
+
+
+
+
+
+
+

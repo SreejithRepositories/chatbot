@@ -1,0 +1,39 @@
+ #outerBox{
+    border: 1px solid black;
+    width: 85%;
+    height: 65%;
+    position: absolute;
+    margin-left: 5%;
+   
+}
+#innerBox1, #innerBox2{
+    width: 99%;
+    height: 50%;
+}
+#letsChat{
+    text-align: center;
+    color: black;
+    background-color: grey;
+    width: 100%;
+}
+
+#virtualassistant:hover {
+cursor: pointer;
+
+}
+#chatassistance{
+    text-align: center;
+}
+#img{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 25%;
+}
+#virtualassistant{
+    margin-left: 25%;
+    width: 50%;
+    height: 50%;
+    bottom: 0;
+    right: 0;
+}
